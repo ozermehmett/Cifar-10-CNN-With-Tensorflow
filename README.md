@@ -17,6 +17,9 @@ This repository contains a Convolutional Neural Network (CNN) implemented with T
 
 The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes. This project demonstrates how to build and train a CNN to classify images into these categories using TensorFlow.
 
+![download (4)](https://github.com/ozermehmett/Cifar-10-CNN-With-Tensorflow/assets/115498182/fdc8135c-3794-4641-a23a-3bcc06b336b3)
+
+
 ## Dataset
 
 The CIFAR-10 dataset includes 10 classes: airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. Each class has 6,000 images.
@@ -63,6 +66,9 @@ After training the model, the following results were achieved on the test set:
 
 - **Accuracy**: %79.54
 - **Loss**: 0.64
+
+![download (5)](https://github.com/ozermehmett/Cifar-10-CNN-With-Tensorflow/assets/115498182/afde0411-7f5c-425b-9e79-cc7fb3fcfcd5)
+
 
 You can visualize the training and validation accuracy and loss by running the provided notebook.
 
