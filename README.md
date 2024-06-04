@@ -40,6 +40,9 @@ The CNN model is built using TensorFlow and consists of the following layers:
 7. Fully Connected Layer 2
 8. Output Layer
 
+![download](https://github.com/ozermehmett/Cifar-10-CNN-With-Tensorflow/assets/115498182/a69b0594-7e0b-4a33-b9ff-4ac048c5fa54)
+
+
 ## Installation
 
 To get started, clone this repository and install the required packages:
