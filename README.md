@@ -40,6 +40,8 @@ The CNN model is built using TensorFlow and consists of the following layers:
 7. Fully Connected Layer 2
 8. Output Layer
 
+#### Model Architecture
+
 ![download](https://github.com/ozermehmett/Cifar-10-CNN-With-Tensorflow/assets/115498182/a69b0594-7e0b-4a33-b9ff-4ac048c5fa54)
 
 
@@ -49,7 +51,7 @@ To get started, clone this repository and install the required packages:
 
 ```bash
 git clone https://github.com/ozermehmett/Cifar-10-CNN-With-Tensorflow.git
-cd your-repo-name
+cd Cifar-10-CNN-With-Tensorflow
 pip install -r requirements.txt
 ```
 
@@ -69,6 +71,13 @@ After training the model, the following results were achieved on the test set:
 
 - **Accuracy**: %79.54
 - **Loss**: 0.64
+
+#### Training and Validation Loss and Accuracy for CIFAR-10 Model
+
+![hh](https://github.com/ozermehmett/Cifar-10-CNN-With-Tensorflow/assets/115498182/75e03b29-537e-48cc-8ee4-60fee0313e6f)
+
+
+#### Performance of CIFAR-10 Classification Model
 
 ![download (5)](https://github.com/ozermehmett/Cifar-10-CNN-With-Tensorflow/assets/115498182/afde0411-7f5c-425b-9e79-cc7fb3fcfcd5)
 
